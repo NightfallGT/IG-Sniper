@@ -18,3 +18,4 @@ go get "github.com/gookit/color"
 
 - Edit `account.json` and put your Instagram login details.
 - Edit `targets.txt` and put your desired usernames to check and claim when available
+- It is recommended to add a high sleep time such as 1800 to avoid being rate limited. (Check username availabilty every 30 minutes)
